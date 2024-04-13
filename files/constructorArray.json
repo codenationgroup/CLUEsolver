@@ -1,0 +1,107 @@
+[
+    {
+        "identifier": "Mr. Green",
+        "value": "(x+1)(x-1)",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Prof. Plum",
+        "value": "(x+11)(x-1)",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Kitchen",
+        "value": "(x-9)(x-8)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Library",
+        "value": "(x+9)(x-2)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Hall",
+        "value": "(x-3)(x+6)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Study",
+        "value": "(x+6)(x-4)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Ballroom",
+        "value": "(x+7)(x-8)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Dining Room",
+        "value": "(x-5)(x-2)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Coln. Mustard",
+        "value": "(x+8)(x+8)",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Mrs. Peacock",
+        "value": "(x+7)(x+1)",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Miss Scarlet",
+        "value": "(x-2)(x-3)",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Mrs. White",
+        "value": "-0",
+        "type": "Suspect"
+    },
+    {
+        "identifier": "Candlestick",
+        "value": "(x-10)(x+9)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Knife",
+        "value": "(x-10)(x-1)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Lead Pipe",
+        "value": "(x-8)(x-5)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Revolver",
+        "value": "(x-2)(x+6)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Rope",
+        "value": "(x+6)(x-8)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Wrench",
+        "value": "(x+4)(x+2)",
+        "type": "Weapon"
+    },
+    {
+        "identifier": "Conservatory",
+        "value": "(x-9)(x-1)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Lounge",
+        "value": "(x+1)(x+1)",
+        "type": "Room"
+    },
+    {
+        "identifier": "Billiard Room",
+        "value": "(x+10)(x-9)",
+        "type": "Room"
+    }
+]
